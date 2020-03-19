@@ -18,7 +18,7 @@
 
 ## for example
 
-![my idol IU](https://github.com/Richardurben/figure_for_markdown/raw/master/figures/idol/1257_5.jpg)
+![my idol IU](https://github.com/Richardurben/figure_for_markdown/raw/master/idol/1257_5.jpg)
 
 > 链接：https://www.jianshu.com/p/33eeacac3344
 
