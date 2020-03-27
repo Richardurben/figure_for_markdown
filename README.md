@@ -16,6 +16,10 @@
 
 **https://github.com/zhanghlHUST/figureForMarkdown/raw/master/17_urllib_parse_urlparse.JPG**
 
+变为：
+
+**https://cdn.jsdelivr.net/gh/zhanghlHUST/figureForMarkdown/raw/master/17_urllib_parse_urlparse.JPG**
+
 ## for example
 
 ![my idol IU](https://github.com/Richardurben/figure_for_markdown/raw/master/idol/1257_5.jpg)
