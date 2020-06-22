@@ -10,15 +10,15 @@
 
 5. 网页浏览复制图片URL，如:
 
-**https://github.com/zhanghlHUST/figureForMarkdown/blob/master/17_urllib_parse_urlparse.JPG**
+**https://github.com/Richardurben/figure_for_markdown/blob/master/idol/1257_5.jpg**
 
 变为：
 
-**https://github.com/zhanghlHUST/figureForMarkdown/raw/master/17_urllib_parse_urlparse.JPG**
+**https://github.com/Richardurben/figure_for_markdown/raw/master/idol/1257_5.jpg**
 
 变为：
 
-**https://cdn.jsdelivr.net/gh/zhanghlHUST/figureForMarkdown/raw/master/17_urllib_parse_urlparse.JPG**
+**https://cdn.jsdelivr.net/gh//Richardurben/figure_for_markdown/raw/master/idol/1257_5.jpg**
 
 ## for example
 
